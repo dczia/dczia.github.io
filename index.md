@@ -18,10 +18,10 @@ DefCon 26's theme is 1983 and we decided to build upon our idea for last years b
 
 Archive Coming Soon
 
-2014 - Group Creation, Laserdisc Badge, Shennanigans
-2015 - PiBadge Mk1 - Raspberry Pi // 3.5" Full Color LCD -- The first badge
-2016 - PiBadge Mk2 - Raspberry Pi // 3.5" Full Color LCD // Custom Visuals from Beeple remixed by Lithochasm
-2017 - Mech Keyboard Badge - Mechanical Keys // 16x2 Charecter LCD // NeoPixel RGB LEDs // Arduino101 Microcontroller
-2017 - DCZia Spinners - Red LED lit and non lit custom cut acrylic spinners.
-2017 - DCZia Laynards - Black and Yellow, our first shot at laynard design
+* 2014 - Group Creation, Laserdisc Badge, Shennanigans
+* 2015 - PiBadge Mk1 - Raspberry Pi // 3.5" Full Color LCD -- The first badge
+* 2016 - PiBadge Mk2 - Raspberry Pi // 3.5" Full Color LCD // Custom Visuals from Beeple remixed by Lithochasm
+* 2017 - Mech Keyboard Badge - Mechanical Keys // 16x2 Charecter LCD // NeoPixel RGB LEDs // Arduino101 Microcontroller
+* 2017 - DCZia Spinners - Red LED lit and non lit custom cut acrylic spinners.
+* 2017 - DCZia Laynards - Black and Yellow, our first shot at laynard design
 
