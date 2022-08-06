@@ -4,7 +4,7 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
-<html>
+<html lang="en">
 	<head>
 		<title>DCZia - DEFCON 30 badge CTF</title>
 		<meta charset="utf-8" />
@@ -49,6 +49,7 @@
               <p>If you've found your way here, you probably want to go to
               <a
                 href="https://ctf.virus-bucket.biz/">https://ctf.virus-bucket.biz/</a> and sign on up! You'll need the registration code that you'll get to from the text on the back of the board to get in.</p>
+            </div></div></div></section>
 
 		<!-- Footer -->
 			<footer id="footer">
