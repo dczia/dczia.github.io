@@ -1,0 +1,12 @@
+{
+  "pub_key": "BLS_VER_KEY~db1ElQ8y4dr2ZJiBWHMlvmr_Zt2tP08cTNwwuW6nFQSW_nnjWk-eW9xXV7vO5D6oa08eYgbOXq76yCE-dObkAs8m0nXZ1SW2SMVHjMqjEq3TTSFhe_Q7tmQlP1--WHQLXVVKQnuh9TPQ-pFCxOKjSpXXNunKfxaiSAjIME5x7Kr6",
+  "name": "DCZia Validator",
+  "description": "Running on Malort, green chile, and solder",
+  "company_name": "DCZia",
+  "company_website": "https://dczia.net/",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": { "@1x": "https://dczia.net/images/dczlogo-14.png", "@2x": "https://dczia.net/images/dczlogo-28.png", "@3x": "https://dczia.net/images/dczlogo-42.png" },
+    "24x24": { "@1x": "https://dczia.net/images/dczlogo-24.png", "@2x": "https://dczia.net/images/dczlogo-48.png", "@3x": "https://dczia.net/images/dczlogo-72.png" }
+  }
+}
